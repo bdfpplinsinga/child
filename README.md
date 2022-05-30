@@ -1,3 +1,3 @@
 # parent
 
-This is a Parent themes
+This is a child theme themes
